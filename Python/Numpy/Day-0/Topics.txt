@@ -1,0 +1,3 @@
+I am starting with Numpy Docs.
+
+https://docs.scipy.org/doc/numpy/user/quickstart.html
